@@ -12,6 +12,4 @@
 - Harness Java's versatility to build reliable and adaptable e2e tests.
 - Provide a reliable, real-world application of QA practices to ensure seamless user experiences.
 
-**A Call to Collaboration:** Whether you're a fellow QA professional, a Java enthusiast, or someone intrigued by the world of testing, I invite you to join me on this journey. By collaborating, sharing insights, or even offering feedback, you become an essential part of this pursuit of excellence.
-
 **Connect:** Got questions, ideas, or experiences to share? Let's connect! Together, we can elevate our skills, champion testing excellence, and empower the world of software quality assurance.
