@@ -2,7 +2,7 @@
 
 **About Me:** As a seasoned Quality Assurance (QA) professional with a strong foundation in QA methodologies, I find myself on an exciting new journey. After three and a half years at my former company, I was sadly laid off August 1, 2023 but I've decided to use this opportunity to embark on a journey of personal growth and to strengthen areas of weakness.
 
-**Project Overview:** Welcome to my Selenium-Maven-Java project, where I'm honing my skills to ensure testing excellence for the Outreach web application. This repository showcases my dedication to mastering Selenium, Maven, and Java to build a suite of robust end-to-end (e2e) tests.
+**Project Overview:** Welcome to my Selenium-Maven-Java project, where I'm honing my skills to ensure testing excellence using the Outreach web application as the perverbial guinea pig. This repository showcases my dedication to mastering Selenium, Maven, and Java to build a suite of robust end-to-end (e2e) tests.
 
 **Project Focus:** The heart of this endeavor lies in verifying various critical aspects of the Outreach web application. Using the powerful trio of Selenium for browser automation, Maven for efficient project management, and Java for programming flexibility, I'm crafting a suite of tests that leave no stone unturned.
 
